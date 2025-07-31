@@ -16,6 +16,6 @@ This project implements a priority-based FIFO (First-In First-Out) buffer using 
 
 - FIFO depth and data width are fully parameterized for design scalability.
 
-- Fully synthesizable and tested using GTKWave waveform viewer with a Verilog testbench and VCD output.
+- Tested using GTKWave waveform viewer with a Verilog testbench and VCD output.
 
 - Clean reset logic and real-time status flags (full, empty) for safe interfacing.
